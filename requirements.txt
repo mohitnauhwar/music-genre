@@ -2,4 +2,4 @@ streamlit
 librosa
 numpy
 scikit-learn
-tensorflow
+tflite-runtime
